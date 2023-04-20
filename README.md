@@ -1,5 +1,5 @@
 ### Hola y bienvenido! 👋😁
-### Anosh Malik here!
+## Anosh Malik here!
 
 🔭 I’m currently working on PERN stack
 🌱 I’m currently learning Testing and DevOps

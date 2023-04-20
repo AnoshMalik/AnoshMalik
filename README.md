@@ -1,10 +1,8 @@
 ## Hola y bienvenido! 👋😁
 
-🔭 I’m currently working on PERN stack
-🌱 I’m currently learning Testing and DevOps
-👯 I’m looking to collaborate on 
-🤔 I’m looking for help with ...
-💬 Ask me about ...
+- 🏋️‍♂️ I’m currently working on the PERN stack
+- 🤓 I’m currently learning Cloud/Testing/DevOps and how they relate to the entire SDLC
+- 💥 I’m looking to collaborate on Game/Web/Mobile projects
 
 <!--
 **AnoshMalik/AnoshMalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

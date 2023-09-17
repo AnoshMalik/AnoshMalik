@@ -1,5 +1,7 @@
 ## Hola y bienvenido! 👋😁
 
+![](animation.gif)
+
 - 🏋️‍♂️ I’m currently working on the PERN stack
 - 🤓 I’m experimenting with Cloud/Testing/DevOps and how they relate to the entire SDLC
 - 💥 I’m looking to collaborate on Game/Web/Mobile projects

@@ -6,6 +6,8 @@ Hi there! I'm a passionate and driven developer exploring the world of technolog
 
 - [AWS Cloud Practitioner](https://www.credly.com/badges/b9102805-939e-4a9f-b8e7-90e2433cae10/public_url) - [COMPTIA A+ Certified](https://www.credly.com/badges/d0cfd15a-d1b9-490a-bfc4-bda2353941ba/public_url) - [Google IT Support Certified](https://www.credly.com/badges/ef1595d5-c3ba-44fe-b6bd-e813022488ba/public_url)
 
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anoshmalik)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **AnoshMalik/AnoshMalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

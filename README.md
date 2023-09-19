@@ -2,9 +2,7 @@
 
 ![](animation2.gif)
 
-- 🏋️‍♂️ I’m currently working on the PERN stack
-- 🤓 I’m experimenting with Cloud/Testing/DevOps and how they relate to the entire SDLC
-- 💥 I’m looking to collaborate on Game/Web/Mobile projects
+Hi there! I'm a passionate and driven developer exploring the world of technology. Currently, I'm diving into the world of web development with the PERN (PostgreSQL, Express.js, React, Node.js) stack, building sleek and responsive web applications. My enthusiasm doesn't stop there though; I've also been honing my skills in Unity, where I dabble in game development and 2D/3D simulations/animations. Additionally, I'm venturing into the cloud with AWS/Azure, learning to harness its power for scalable and efficient solutions. As a junior developer, I'm eager to collaborate, learn, and contribute to exciting projects. Let's connect and code something amazing together! 
 
 - [AWS Cloud Practitioner](https://www.credly.com/badges/b9102805-939e-4a9f-b8e7-90e2433cae10/public_url)
 - [COMPTIA A+ Certified](https://www.credly.com/badges/d0cfd15a-d1b9-490a-bfc4-bda2353941ba/public_url)

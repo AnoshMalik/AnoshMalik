@@ -4,7 +4,7 @@
 
 Hi there! I'm a passionate and driven developer exploring the world of technology. Currently, I'm diving into the world of web development with the PERN (PostgreSQL, Express.js, React, Node.js) stack, building sleek and responsive web applications. My enthusiasm doesn't stop there though; I've also been honing my skills in Unity, where I dabble in game development and 2D/3D simulations/animations. Additionally, I'm venturing into the cloud with AWS/Azure, learning to harness its power for scalable and efficient solutions. As a junior developer, I'm eager to collaborate, learn, and contribute to exciting projects. Let's connect and code something amazing together! 
 
-- [AWS Cloud Practitioner](https://www.credly.com/badges/b9102805-939e-4a9f-b8e7-90e2433cae10/public_url) - [COMPTIA A+ Certified](https://www.credly.com/badges/d0cfd15a-d1b9-490a-bfc4-bda2353941ba/public_url) - [Google IT Support Certified](https://www.credly.com/badges/ef1595d5-c3ba-44fe-b6bd-e813022488ba/public_url)
+- [AWS Cloud Practitioner](https://www.credly.com/badges/b9102805-939e-4a9f-b8e7-90e2433cae10/public_url) x [COMPTIA A+ Certified](https://www.credly.com/badges/d0cfd15a-d1b9-490a-bfc4-bda2353941ba/public_url) x [Google IT Support Certified](https://www.credly.com/badges/ef1595d5-c3ba-44fe-b6bd-e813022488ba/public_url)
 
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anoshmalik)](https://github.com/anuraghazra/github-readme-stats)
